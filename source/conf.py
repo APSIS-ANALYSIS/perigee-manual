@@ -9,7 +9,7 @@
 project = 'PERIGEE'
 copyright = '2023, M3C-LAB'
 author = 'M3C-LAB'
-release = 'v0.0'
+release = 'v0.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
