@@ -37,3 +37,4 @@ source_suffix = {
     '.rst': 'restructuredtext',
     '.md' : 'markdown',}
 
+html_logo = 'white_white.svg'
